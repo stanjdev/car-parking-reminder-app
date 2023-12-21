@@ -1,0 +1,6 @@
+framework module Pods_Parking_Reminder___Find_My_Car__iOS_ {
+  umbrella header "Pods-Parking Reminder - Find My Car (iOS)-umbrella.h"
+
+  export *
+  module * { export * }
+}
